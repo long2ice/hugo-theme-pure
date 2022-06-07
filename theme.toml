@@ -3,9 +3,9 @@
 
 name = "Hugo Theme Pure"
 license = "MIT"
-licenselink = "https://github.com/xiaoheiAh/hugo-theme-pure/blob/master/LICENSE"
+licenselink = "https://github.com/long2ice/hugo-theme-pure/blob/master/LICENSE"
 description = "A powerful and pure theme for hugo~enjoy~"
-homepage = "https://xiaohei.im/"
+homepage = "https://github.com/long2ice/hugo-theme-pure"
 tags = [
   "blog",
   "clean",
@@ -18,8 +18,8 @@ features = []
 min_version = "0.57.2"
 
 [author]
-name = "xiaoheiah"
-homepage = "https://xiaohei.im"
+name = "long2ice"
+homepage = "https://long2ice.io"
 
 [original]
 name = "hexo-theme-pure"

@@ -17,21 +17,21 @@
 
 ## 预览
 
-![](https://raw.githubusercontent.com/xiaoheiAh/hugo-theme-pure/master/images/grey.png)
+![](https://raw.githubusercontent.com/long2ice/hugo-theme-pure/master/images/grey.png)
 
-![](https://raw.githubusercontent.com/xiaoheiAh/hugo-theme-pure/master/images/black.png)
+![](https://raw.githubusercontent.com/long2ice/hugo-theme-pure/master/images/black.png)
 
-![](https://raw.githubusercontent.com/xiaoheiAh/hugo-theme-pure/master/images/blue.png)
+![](https://raw.githubusercontent.com/long2ice/hugo-theme-pure/master/images/blue.png)
 
-![](https://raw.githubusercontent.com/xiaoheiAh/hugo-theme-pure/master/images/green.png)
+![](https://raw.githubusercontent.com/long2ice/hugo-theme-pure/master/images/green.png)
 
-![](https://raw.githubusercontent.com/xiaoheiAh/hugo-theme-pure/master/images/purple.png)
+![](https://raw.githubusercontent.com/long2ice/hugo-theme-pure/master/images/purple.png)
 
 ## 安装
 
 ```bash
 $ cd $HUGO_ROOT
-$ git clone https://github.com/xiaoheiAh/hugo-theme-pure themes/pure
+$ git clone https://github.com/long2ice/hugo-theme-pure themes/pure
 $ ./hugo server -t pure
 ```
 

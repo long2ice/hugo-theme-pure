@@ -14,7 +14,7 @@ The file structure of `repo` is roughly referred to [hexo-theme-pure](https://gi
 
 1. [2019-11-19] Add `mainSections` param to avoid hard code.You can set this param to choose which directory under your content folder you want to render. `posts` by default. You can also unset it,but there seems have some problem.
 
-2. [2019-11-19] Support MathJax([PR](https://github.com/xiaoheiAh/hugo-theme-pure/pull/20)) Reference:[MathJax-With-Hugo](https://gohugo.io/content-management/formats/#mathjax-with-hugo)& Upgrade jQuery version([PR](https://github.com/xiaoheiAh/hugo-theme-pure/pull/19)).
+2. [2019-11-19] Support MathJax([PR](https://github.com/long2ice/hugo-theme-pure/pull/20)) Reference:[MathJax-With-Hugo](https://gohugo.io/content-management/formats/#mathjax-with-hugo)& Upgrade jQuery version([PR](https://github.com/long2ice/hugo-theme-pure/pull/19)).
 
    e.g. 
 
@@ -27,8 +27,8 @@ The file structure of `repo` is roughly referred to [hexo-theme-pure](https://gi
    $$
    ```
 
-     <img src="https://raw.githubusercontent.com/xiaoheiAh/imgs/master/20191121103534.png" alt="not-set-mmark" style="zoom:50%;" />
-   <img src="https://raw.githubusercontent.com/xiaoheiAh/imgs/master/20191121104118.png" alt="set-mmark" style="zoom:50%;" />
+     <img src="https://raw.githubusercontent.com/long2ice/imgs/master/20191121103534.png" alt="not-set-mmark" style="zoom:50%;" />
+   <img src="https://raw.githubusercontent.com/long2ice/imgs/master/20191121104118.png" alt="set-mmark" style="zoom:50%;" />
 
 3. [2019-12-07] beautify toc by [tocbot](https://github.com/tscanlin/tocbot/)
 
@@ -55,21 +55,21 @@ The file structure of `repo` is roughly referred to [hexo-theme-pure](https://gi
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/xiaoheiAh/hugo-theme-pure/master/images/grey.png)
+![](https://raw.githubusercontent.com/long2ice/hugo-theme-pure/master/images/grey.png)
 
-![](https://raw.githubusercontent.com/xiaoheiAh/hugo-theme-pure/master/images/black.png)
+![](https://raw.githubusercontent.com/long2ice/hugo-theme-pure/master/images/black.png)
 
-![](https://raw.githubusercontent.com/xiaoheiAh/hugo-theme-pure/master/images/blue.png)
+![](https://raw.githubusercontent.com/long2ice/hugo-theme-pure/master/images/blue.png)
 
-![](https://raw.githubusercontent.com/xiaoheiAh/hugo-theme-pure/master/images/green.png)
+![](https://raw.githubusercontent.com/long2ice/hugo-theme-pure/master/images/green.png)
 
-![](https://raw.githubusercontent.com/xiaoheiAh/hugo-theme-pure/master/images/purple.png)
+![](https://raw.githubusercontent.com/long2ice/hugo-theme-pure/master/images/purple.png)
 
 ## Installation
 
 ```bash
 $ cd $HUGO_ROOT
-$ git clone https://github.com/xiaoheiAh/hugo-theme-pure themes/pure
+$ git clone https://github.com/long2ice/hugo-theme-pure themes/pure
 $ ./hugo server -t pure
 ```
 

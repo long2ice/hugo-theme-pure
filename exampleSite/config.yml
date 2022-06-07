@@ -13,10 +13,10 @@ permalinks:
   posts: /:year/:month/:filename/
 
 taxonomies:
-    category : categories
-    tag : tags
-    series : series
-outputFormats:          # use for search. recommend not to modify 
+  category: categories
+  tag: tags
+  series: series
+outputFormats: # use for search. recommend not to modify
   SearchIndex:
     mediaType: "application/json"
     baseName: "searchindex"
@@ -24,7 +24,7 @@ outputFormats:          # use for search. recommend not to modify
     notAlternative: true
 
 outputs:
-    home: ["HTML","RSS","SearchIndex"]  # recommend not to modify
+  home: [ "HTML","RSS","SearchIndex" ]  # recommend not to modify
 # sitemap
 sitemap:
   changefreq: monthly
@@ -70,12 +70,12 @@ params:
   enablePostCopyright: true
   copyright_link: http://creativecommons.org/licenses/by/4.0/deed.zh
   # the directory under content folder that you want to render
-  mainSections: ["posts"]
+  mainSections: [ "posts" ]
   # Enable/Disable menu icons
   # Icon Reference: http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html
   enableMathJax: true #Enable mathjax support, to use mathematical notations
   highlightjs:
-    langs: ["python", "javascript"] # refer to http://staticfile.org/, search highlight.js, already have highlight.min.js
+    langs: [ "python", "javascript" ] # refer to http://staticfile.org/, search highlight.js, already have highlight.min.js
 
   tag_cloud:
     min: 8
@@ -202,3 +202,8 @@ params:
     - tag
     - recent_posts
 
+  # ads
+  ads:
+    adsense:
+      enable: true
+      client: ca-pub-4103172601745047
